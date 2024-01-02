@@ -41,6 +41,3 @@ Hello, I'm student, programmer and maker from Czech republic. I study at the gra
   </picture>
   </a>
 </p>
-
-### Badges<b>My GitHub Stats</b>
-<a href="http://www.github.com/Venca321"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Venca321&color=ffffff&bg_color=15171e&line=00c23d&area=true&area_color=00c23d&point=00c23dc0" alt="GitHub Commits Graph" /></a>
