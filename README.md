@@ -8,7 +8,7 @@ Hello, I'm student, programmer and maker from Czech republic. I study at the gra
 
 *   🌍  I'm based in Louny, Czech republic
 *   🖥️  See my portfolio at [My website](http://vaclavparma.cz/EN)
-*   ✉️  You can contact me at [contact@vaclavparma.cz](mailto:contact@vaclavparma.cz)
+*   ✉️  You can contact me at [vaclav@parma.dev](mailto:vaclav@parma.dev)
 *   🧠  I'm learning AI, Python and Typescript
 <!--*   🚀  I'm currently working on [School research work](http://rocnikova-prace.byvp.cz)-->
 
