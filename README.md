@@ -4,7 +4,7 @@ Hi 👋 My name is Václav Parma
 Student, programmer, maker
 --------------------------
 
-Hello, I'm student, programmer and maker from Czech republic. I study at the grammar school in Louny. I learned my knowledge of programming and electronics mostly by trial and error. Most often I program, but I'm also interested in 3D printing, computers and various electronic projects.
+Hello, I'm student, programmer and maker from Czech republic. I learned my knowledge of programming and electronics mostly by trial and error. Most often I program, but I'm also interested in 3D printing, computers and various electronic projects.
 
 *   🌍  I'm based in Louny, Czech republic
 *   🖥️  See my portfolio at [My website](http://vaclavparma.cz/EN)
