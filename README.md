@@ -1,33 +1,25 @@
-# Hi 👋 My name is Václav Parma
+# Hi, I'm Václav 👋
+### *Founding Engineer | Software, AI & Hardware*
 
-## CTO & Developer | Software, AI & Hardware
+I'm a 20-year-old student, developer, and maker who loves exploring how things work from the ground up. I have a huge passion for mechanical watches and electronics, since I've always loved taking things apart to map out their logic and mechanisms. 
 
-I am a 20-year-old student and a technology enthusiast with a broad scope ranging from software engineering to hardware. My passion for mechanical watches and electronics stems from a natural drive to take things apart and understand the inner workings of complex systems. I apply this "deep-dive" approach to everything I do — whether designing cloud architecture or optimizing AI services. 
+I guess that’s why I enjoy digging into complex systems today, whether it's building AI-driven services, configuring secure network infrastructure, or messing with hardware. For me, the best way to build something reliable is to truly understand the bits and bobs that make it work.
 
-I enjoy exploring technology down to the finest detail, as I believe that truly reliable and secure solutions can only be designed by someone who completely understands their core essence.
+## 🛠️ Tech Stack & Skills
 
----
+* 💻 **Languages & Tools:** Python, C++, Bash, Git
+* 🧠 **AI & Automation:** Prompt Engineering, OpenAI API, Vector Databases
+* 🌐 **Infrastructure & Homelab:** Linux, Proxmox VE, OPNsense, Cloud (Azure / Bicep), CI/CD
+* 🔌 **Hardware & Making:** 3D Printing (Fusion 360, PrusaSlicer), Electronics (built my own 8-bit computer)
 
-### 🛠️ Tech Stack & Skills
+## 🚀 What I'm working on
 
-* **Programming:** Python, C++, Bash, Git
-* **AI & LLMs:** Prompt Engineering, OpenAI API, Vector Databases
-* **Infrastructure & Networking:** Proxmox VE, OPNsense, Linux Administration, CI/CD
-* **Cloud & IaC:** Azure, Bicep (Infrastructure as Code)
-* **Certifications:** Microsoft Certified: Azure Fundamentals (AZ-900)
+* 🛠️ **Homelab Expansion:** Managing my home infrastructure with Proxmox VE and OPNsense, while building and 3D printing a custom 10" rack setup.
+* 🌐 **vaclavparma.cz:** A clean, minimal personal landing page and tech playground.
 
----
+## 📬 Get in touch
 
-### 🚀 What I'm working on
-
-* 🏠 **Homelab & Network Infrastructure:** My technological sandbox where network traffic is managed by a dedicated OPNsense router, and other services run on a Proxmox VE server.
-* 🌐 **Personal Website:** A minimalist, high-performance web presentation serving as my digital portfolio.
-
----
-
-### 📬 Get in touch
-
-* 🌍 Based in Louny, Czech Republic
-* 🖥️ Portfolio: [parma.dev](https://parma.dev)
-* 📱 LinkedIn: [linkedin.com/in/vaclavparma](https://www.linkedin.com/in/vaclavparma)
-* ✉️ Contact: [vaclav@parma.dev](mailto:vaclav@parma.dev)
+* 📍 Based in Prague, Czech Republic
+* 🌐 Web: [vaclavparma.cz](https://vaclavparma.cz)
+* 💼 LinkedIn: [linkedin.com/in/vaclavparma](https://www.linkedin.com/in/vaclavparma)
+* ✉️ Contact: [contact@vaclavparma.cz](mailto:contact@vaclavparma.cz)
