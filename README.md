@@ -7,7 +7,7 @@ I guess that’s why I enjoy digging into complex systems today, whether it's bu
 
 ## 🛠️ Tech Stack & Skills
 
-* 💻 **Languages & Tools:** Python, C++, Bash, Git
+* 💻 **Languages & Tools:** Python, Bash, Git
 * 🧠 **AI & Automation:** Prompt Engineering, OpenAI API, Vector Databases
 * 🌐 **Infrastructure & Homelab:** Linux, Proxmox VE, OPNsense, Cloud (Azure / Bicep), CI/CD
 * 🔌 **Hardware & Making:** 3D Printing (Fusion 360, PrusaSlicer), Electronics (built my own 8-bit computer)
