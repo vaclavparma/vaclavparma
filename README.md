@@ -23,3 +23,4 @@ I guess that’s why I enjoy digging into complex systems today, whether it's bu
 * 🌐 Web: [vaclavparma.cz](https://vaclavparma.cz)
 * 💼 LinkedIn: [linkedin.com/in/vaclavparma](https://www.linkedin.com/in/vaclavparma)
 * ✉️ Contact: [contact@vaclavparma.cz](mailto:contact@vaclavparma.cz)
+* ☕️ Support me: [buymeacoffee.com](https://buymeacoffee.com/vaclavparma)
